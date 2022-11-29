@@ -1,7 +1,10 @@
 # SophomoreSeminarPython
 Laila Eliotti
+
 Prof Zhang
+
 Final Report 
+
 Sophomore Seminar
 
 **Intro to project**
