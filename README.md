@@ -33,7 +33,7 @@ sorted array that sum up to a given S. I have focused on the delete
 node with given key algorithm. Given the head of a linked list and a key, you
 must delete the node that contains this given key. I have studied
 the fill the blanks algorithm that takes in a list of integers and then returns the
-list with missing consecutive numbers included. Finally, how binary search and merge sort algorithms work with time and complexity.
+list with missing consecutive numbers included. Finally, how binary search and linear search algorithms work with time and complexity.
 
 
 
